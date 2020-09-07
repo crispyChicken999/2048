@@ -1,2 +1,2 @@
 # Simple-2048
-This is a little game I created while learning about Web development.
+这是一个使用JavaScripts编写的网页端2048小游戏。
